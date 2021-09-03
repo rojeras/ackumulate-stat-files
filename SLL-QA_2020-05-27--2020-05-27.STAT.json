@@ -1,0 +1,31 @@
+{
+  "plattform": "SLL-QA",
+  "startDate": "2020-05-27",
+  "endDate": "2020-05-27",
+  "statistics": [
+    {
+      "originalConsumerId": "T-SERVICES-SE165565594230-10SZ",
+      "consumerId": "T-SERVICES-SE165565594230-10SZ",
+      "calls": 2,
+      "namespace": "urn:riv:crm:scheduling:GetAllTimeTypesResponder:1",
+      "logicalAddress": "SE2321000016-A1D4",
+      "averageResponseTime": 1416
+    },
+    {
+      "originalConsumerId": "T-SERVICES-SE165565594230-10JQ",
+      "consumerId": "T-SERVICES-SE165565594230-1023",
+      "calls": 2,
+      "namespace": "urn:riv:informationsecurity:auditing:log:GetAccessLogsForPatientResponder:2",
+      "logicalAddress": "SE2321000016-A38X",
+      "averageResponseTime": 454
+    },
+    {
+      "originalConsumerId": "SE2321000016-A38X",
+      "consumerId": "SE2321000016-A38X",
+      "calls": 1,
+      "namespace": "urn:riv:itintegration:engagementindex:UpdateResponder:1",
+      "logicalAddress": "5565594230",
+      "averageResponseTime": 15
+    }
+  ]
+}
